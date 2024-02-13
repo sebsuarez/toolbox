@@ -8,3 +8,4 @@ myhosts:
       ansible_host: server2
     server3:
       ansible_host: nexus
+      
